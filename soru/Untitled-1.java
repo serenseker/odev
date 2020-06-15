@@ -4,9 +4,7 @@ import java.util.*;
 public class Personel{
 
      public static void main(String []args){
-        employee personel = new employee("seren",21);
-        System.out.println(personel.yazdir());
-        boss personel = new boss();
+        System.out.println("Hello World");
      }
 }
 
